@@ -7,7 +7,7 @@
   + Concurrent Algorithms
   + Information Security and Privacy
   + Distributed Information Systems
-  + Machine Learning
+  + Applied Data Analysis
 - 📫 How to reach me:
   [contact@enzopellegrini.me](mailto:contact@enzopellegrini.me)
 - 👨🏻‍💻 Personal website: [enzopellegrini.me](https://enzopellegrini.me)

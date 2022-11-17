@@ -6,8 +6,7 @@
   + Distributed Algorithms
   + Concurrent Algorithms
   + Information Security and Privacy
-  + Distributed Information Systems
-  + Applied Data Analysis
+  + Machine Learning
 - 📫 How to reach me:
   [contact@enzopellegrini.me](mailto:contact@enzopellegrini.me)
 - 👨🏻‍💻 Personal website: [enzopellegrini.me](https://enzopellegrini.me)

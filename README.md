@@ -3,7 +3,7 @@
 - 💼 Looking for a Master Project or 6 months Internship starting in September 2024!
 
 - 🔭 Currently working as a Software Engineering Intern at SonarSource.
-- 🤌 Student EPFL. In the past semesters I have taken courses in these fields:
+- 🤌 EPFL student. In the past semesters I have taken courses in these fields:
   + Programming Languages and Compilers
   + Security and Privacy
   + Distributed and Concurrent Algorithms
